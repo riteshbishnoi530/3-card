@@ -7,6 +7,16 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.card-2-bg{
+    background-image: url(/assets/image/webp/card-2-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-3-bg{
+    background-image: url(/assets/image/webp/card-3-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 .col-4{
     width: 33.33%;
     padding-left: 12px;
