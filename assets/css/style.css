@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card-1-bg{
+    background-image: url(/assets/image/webp/card-1-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.col-4{
+    width: 33.33%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.row{
+    display: flex;
+}
+.card{
+    background: white;
+    max-width: 382px;
+    border-radius: 25px;
+}
+.font-30{
+    font-size: 30px;
+}
+.text{
+    padding: 35px 29px;
+    min-height: 320px;
+}
+.font-15{
+    font-size: 15px;
+}
+.line-height-130{
+    line-height: 130%;
+}
+.line-height-100{
+    line-height: 100%;
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.pb-29{
+    padding-bottom: 29px;
+}
+.pt-202{
+    padding-top: 202px;
+}
+.weight-300{
+    font-weight: 300;
+}
+.weight-400{
+    font-weight: 400;
+}
+.weight-600{
+    font-weight: 600;
+}
+.color{
+    color: #00AFB5;
+}
+.read-more{
+    border: none;
+    background: none;
+}
+.px-12{
+    padding-left: 12px;
+    padding-right: 12px;
+}
